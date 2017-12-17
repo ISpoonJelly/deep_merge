@@ -1,1 +1,3 @@
-# deep_merge
+### Usage:
+
+run ```npm install``` followed by ```npm test```
